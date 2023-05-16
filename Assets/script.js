@@ -1,9 +1,10 @@
 //set Variables for the rest of the javascript 
 
 var day = 0;
-var weekday = "";
+var weekDay = "";
 var month = "";
 var hour = 0;
+var currentDay = "";
 
 var monthName = [
   "January",
